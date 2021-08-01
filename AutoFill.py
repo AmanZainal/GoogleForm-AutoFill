@@ -1,9 +1,6 @@
 # Autofill Google Form
 
 import requests
-import datetime
-import time
-import sys
 
 # URL to the form you want to fill. formResponse should be used instead of viewform
 testurl = 'https://docs.google.com/forms/d/e/1FAIpQLSekPW7KZ9EsjDsBJ2ox7OwMBGhcErhSvMx1ml3bjZWjmHx8vQ/formResponse'
